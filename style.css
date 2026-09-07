@@ -126,6 +126,7 @@ a {
   font-size: clamp(2.7rem, 7vw, 5.6rem);
   line-height: 1.02;
   letter-spacing: -0.07em;
+ font-family: allerta stencil;
 }
 
 .hero h2 {
